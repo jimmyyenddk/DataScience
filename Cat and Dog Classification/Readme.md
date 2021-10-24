@@ -13,4 +13,4 @@ The outline of this project is:
 - Testing of images
 
 For all explanation, visit my post at:
-https://jyddk.wordpress.com/2021/10/16/cat-and-dog-image-classification/
+https://jyddk.wordpress.com/2021/10/16/cat-dog-image-classification/
